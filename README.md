@@ -60,15 +60,6 @@ Fun project breaking down body size patterns across penguin species, sex, and is
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhirajbandi&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=dhirajbandi&theme=tokyonight" width="48%" />
-</p>
-
----
-
 ### 📫 How to reach me
 
 - 📧 Email: dhirajbandiwork@gmail.com  
